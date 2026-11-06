@@ -1,5 +1,7 @@
-Tracker models used in td.
-Run models with python and syphon in segmentation, send udp via local port
+Tracker models used in td
+
+Run models with python and syphon in segmentation, send joints coordinates via udp local port
+
 
 https://github.com/ultralytics/yolo26
 
